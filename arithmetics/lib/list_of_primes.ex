@@ -1,0 +1,2 @@
+defmodule ListOfPrimes do
+end
